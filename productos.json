@@ -1,0 +1,37 @@
+[
+  {"id": 1, "nombre": "Gel limpiador purificante", "categoria": "Limpieza", "pieles": ["grasa", "mixta"], "precio": 7990},
+  {"id": 2, "nombre": "Limpiador cremoso suave", "categoria": "Limpieza", "pieles": ["sensible", "seca"], "precio": 8490},
+  {"id": 3, "nombre": "Agua micelar", "categoria": "Limpieza", "pieles": ["grasa", "mixta", "seca", "sensible"], "precio": 5990},
+  {"id": 4, "nombre": "Espuma limpiadora equilibrante", "categoria": "Limpieza", "pieles": ["grasa", "mixta"], "precio": 8990},
+  {"id": 5, "nombre": "Bálsamo desmaquillante", "categoria": "Limpieza", "pieles": ["grasa", "mixta", "seca", "sensible"], "precio": 10990},
+
+  {"id": 6, "nombre": "Gel hidratante ligero", "categoria": "Hidratacion", "pieles": ["grasa", "mixta"], "precio": 8990},
+  {"id": 7, "nombre": "Crema hidratante nutritiva", "categoria": "Hidratacion", "pieles": ["grasa", "mixta", "seca", "sensible"], "precio": 7490},
+  {"id": 8, "nombre": "Crema reparadora de barrera", "categoria": "Hidratacion", "pieles": ["sensible"], "precio": 11990},
+  {"id": 9, "nombre": "Loción hidratante diaria", "categoria": "Hidratacion", "pieles": ["mixta"], "precio": 9490},
+  {"id": 10, "nombre": "Mascarilla nocturna hidratante", "categoria": "Hidratacion", "pieles": ["seca"], "precio": 12990},
+
+  {"id": 11, "nombre": "Sérum de niacinamida", "categoria": "Serum", "pieles": ["grasa", "mixta"], "precio": 11990},
+  {"id": 12, "nombre": "Sérum de ácido hialurónico", "categoria": "Serum", "pieles": ["seca"], "precio": 12490},
+  {"id": 13, "nombre": "Sérum iluminador de vitamina C", "categoria": "Serum", "pieles": ["mixta"], "precio": 13990},
+  {"id": 14, "nombre": "Sérum calmante", "categoria": "Serum", "pieles": ["sensible", "seca"], "precio": 12990},
+  {"id": 15, "nombre": "Sérum exfoliante suave", "categoria": "Serum", "pieles": ["grasa"], "precio": 11490},
+  {"id": 16, "nombre": "Tratamiento cosmético para imperfecciones", "categoria": "Serum", "pieles": ["sensible"], "precio": 10990},
+  {"id": 17, "nombre": "Sérum para el contorno de ojos", "categoria": "Serum", "pieles": ["grasa", "mixta", "seca", "sensible"], "precio": 15990},
+
+  {"id": 18, "nombre": "Protector solar de acabado mate", "categoria": "Proteccion_solar", "pieles": ["grasa", "mixta"], "precio": 12990},
+  {"id": 19, "nombre": "Protector solar facial FPS 50+", "categoria": "Proteccion_solar", "pieles": ["grasa", "mixta", "seca", "sensible"], "precio": 9990},
+  {"id": 20, "nombre": "Protector solar hidratante", "categoria": "Proteccion_solar", "pieles": ["seca", "sensible"], "precio": 13490},
+  {"id": 21, "nombre": "Protector solar con color", "categoria": "Proteccion_solar", "pieles": ["grasa", "mixta"], "precio": 14990},
+
+  {"id": 22, "nombre": "Bálsamo labial hidratante", "categoria": "Complementario", "pieles": ["grasa", "mixta", "seca", "sensible"], "precio": 3990},
+  {"id": 23, "nombre": "Crema para manos", "categoria": "Complementario", "pieles": ["grasa", "mixta", "seca", "sensible"], "precio": 4490},
+  {"id": 24, "nombre": "Mascarilla facial de hidratación", "categoria": "Complementario", "pieles": ["grasa", "mixta", "seca", "sensible"], "precio": 4990},
+  {"id": 25, "nombre": "Mascarilla de arcilla", "categoria": "Complementario", "pieles": ["grasa"], "precio": 6990},
+  {"id": 26, "nombre": "Parches cosméticos para ojos", "categoria": "Complementario", "pieles": ["grasa", "mixta", "seca", "sensible"], "precio": 7990},
+
+  {"id": 27, "nombre": "Cintillo para skincare", "categoria": "Accesorio", "pieles": ["grasa", "mixta", "seca", "sensible"], "precio": 3490},
+  {"id": 28, "nombre": "Discos desmaquillantes reutilizables", "categoria": "Accesorio", "pieles": ["grasa", "mixta", "seca", "sensible"], "precio": 4990},
+  {"id": 29, "nombre": "Neceser organizador", "categoria": "Accesorio", "pieles": ["grasa", "mixta", "seca", "sensible"], "precio": 8990},
+  {"id": 30, "nombre": "Set de espátula y aplicadores", "categoria": "Accesorio", "pieles": ["grasa", "mixta", "seca", "sensible"], "precio": 3990}
+]
